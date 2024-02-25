@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+nav{
+    background-image: url(./img/nav.png);
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    height: 40px;
+    text-align: center;
+    justify-content: space-between;
+    color: aliceblue;
+}
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 5%;
+}
+.logo2 {
+    width: 40px;
+}
